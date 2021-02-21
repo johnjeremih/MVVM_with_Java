@@ -4,7 +4,7 @@
 
 # Description  
 
-This is a app was created to show some examples of how to use ViewBinding, LiveData, and Navigation Component following the MVVM Architecture pattern
+This is a app was created to show some examples of how to use ViewBinding, LiveData, and Navigation Component following the MVVM Architecture pattern.
 
 # Intended User
 
@@ -35,7 +35,7 @@ This app is for developers to learn how to use the new technologies for android 
 
 
 
-<p id="gdcalert2" >(<a href="#">Back to top</a>)   (<a href="#gdcalert3">Next Screen</a>)<br><span style="color: red; font-weight: bold" </span></p>
+<p id="gdcalert2" >(<a href="#">Back to top</a>)<br><span style="color: red; font-weight: bold" </span></p>
 
 ![2](https://user-images.githubusercontent.com/4177453/108616663-6c7c8a80-73dd-11eb-82f2-627e8e5b8cec.png)
 
